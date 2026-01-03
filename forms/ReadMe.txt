@@ -1,0 +1,1 @@
+This is the folder where all forms will be uploaded. Please ensure that all application forms are placed here for easy access and organization.
